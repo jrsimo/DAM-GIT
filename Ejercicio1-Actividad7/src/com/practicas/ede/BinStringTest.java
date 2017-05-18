@@ -1,3 +1,4 @@
+// Añadido comentario Actividad 7
 package com.practicas.ede;
 
 import static org.junit.Assert.*;
